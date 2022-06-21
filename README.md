@@ -1,7 +1,4 @@
-<img width="848" alt="Screen Shot 2022-06-20 at 9 27 20 PM" src="https://user-images.githubusercontent.com/71736629/174716097-eac7b5e8-6d71-4dd1-bc84-f3cbd75b3144.png">
-
-
-
+<img width="848" alt="Screen Shot 2022-06-20 at 10 48 30 PM" src="https://user-images.githubusercontent.com/71736629/174726062-61ed07a1-5afa-474a-baf8-34afd264891d.png">
 
 <!--
 **reportaman/reportaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
